@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-api/outdd-read-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-eurekaservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-oauth-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-server/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-ouath-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-oauth-resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outdd-read-oauth-server" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-api/outdd-read-api.iml" filepath="$PROJECT_DIR$/outdd-read-api/outdd-read-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-api/outdd-read-api-member/outdd-read-api-member.iml" filepath="$PROJECT_DIR$/outdd-read-api/outdd-read-api-member/outdd-read-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-common/outdd-read-common.iml" filepath="$PROJECT_DIR$/outdd-read-common/outdd-read-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-eurekaservice/outdd-read-eurekaservice.iml" filepath="$PROJECT_DIR$/outdd-read-eurekaservice/outdd-read-eurekaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-member/outdd-read-member.iml" filepath="$PROJECT_DIR$/outdd-read-member/outdd-read-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-api/outdd-read-oauth-api.iml" filepath="$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-api/outdd-read-oauth-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-center.iml" filepath="$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-oauth-resource/outdd-read-oauth-resource.iml" filepath="$PROJECT_DIR$/outdd-read-oauth-resource/outdd-read-oauth-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-server/outdd-read-oauth-server.iml" filepath="$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-server/outdd-read-oauth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-ouath-client/outdd-read-ouath-client.iml" filepath="$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-ouath-client/outdd-read-ouath-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outdd-read-parent.iml" filepath="$PROJECT_DIR$/outdd-read-parent.iml" />
+    </modules>
+  </component>
+</project>
