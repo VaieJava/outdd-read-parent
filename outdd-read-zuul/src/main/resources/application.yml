@@ -14,6 +14,12 @@ zuul:
   routes:
     uaa:
       sensitiveHeaders:
+security:
+  oauth2:
+    resource:
+      user-info-uri:  http://uaa/user
+      prefer-token-info: false
+      loadBalanced: true
 zuul:
   routes:
     api-a:
