@@ -14,11 +14,13 @@
         <option value="$PROJECT_DIR$/outdd-read-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/outdd-read-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/outdd-read-eureka-service/pom.xml" />
-        <option value="$PROJECT_DIR$/outdd-read-oauth-centre/pom.xml" />
         <option value="$PROJECT_DIR$/outdd-read-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/outdd-read-core-server/pom.xml" />
         <option value="$PROJECT_DIR$/outdd-read-client-service/pom.xml" />
         <option value="$PROJECT_DIR$/outdd-read-provider-service/pom.xml" />
+        <option value="$PROJECT_DIR$/outdd-read-oauth-center/pom.xml" />
+        <option value="$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-resource/pom.xml" />
+        <option value="$PROJECT_DIR$/outdd-read-oauth-center/outdd-read-oauth-common/pom.xml" />
       </list>
     </option>
   </component>

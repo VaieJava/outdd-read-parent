@@ -1,8 +1,6 @@
 package com.outdd.dao;
 
 import com.outdd.api.entity.UserEntity;
-import org.apache.ibatis.annotations.Mapper;
-import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * @author vaie

@@ -29,7 +29,7 @@ public class ResponseBase {
     }
     @Override
     public String toString() {
-        return "ResponseBase [rtnCode=" + rtnCode + ", msg=" + msg + ", data=" + data + "]";
+        return "ResponseBase [Code=" + rtnCode + ", msg=" + msg + ", data=" + data + "]";
     }
 
 }

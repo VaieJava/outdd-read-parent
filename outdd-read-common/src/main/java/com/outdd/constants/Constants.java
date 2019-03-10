@@ -23,5 +23,6 @@ public interface Constants {
 
 	// qq用户未授权登录
 	Integer HTTP_RES_CODE_201 = 201;
+	static final String DEMO_RESOURCE_ID = "order";
 
 }
