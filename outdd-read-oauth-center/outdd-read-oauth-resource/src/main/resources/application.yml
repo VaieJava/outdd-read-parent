@@ -1,0 +1,15 @@
+#server config
+server:
+  port: 8088
+spring:
+  application:
+    name: Oauth-Resource-App
+  thymeleaf:
+      prefix: classpath:/page/
+      suffix: .html
+      cache: false
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.host:127.0.0.1}:${eureka.port:8761}/eureka/
