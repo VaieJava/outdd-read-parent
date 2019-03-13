@@ -14,7 +14,7 @@ import org.springframework.web.server.ServerWebExchange;
 
 import reactor.core.publisher.Mono;
 
-@Component
+//@Component
 public class AuthFilter implements GlobalFilter {
 
     @Override
